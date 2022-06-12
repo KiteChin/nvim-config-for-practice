@@ -1,0 +1,43 @@
+first name,last name,email
+drew,neil,drew@qq.com
+jane,doe,jane@qq.com
+john,smith,john@qq.com
+
+1) Firsst name,last name,email
+2) Drew,neil,drew@qq.com
+3) Jane,doe,jane@qq.com
+4) John,smith,john@qq.com
+
+var foo = 1;
+var bar = "a";
+var foobar = foo + bar;
+
+The car was the color of a carrot
+
+.blog {background-position: 0px 0px}
+.news {background-position: -360px 0px}
+
+Search items: [http://vimdoc.net/search?q=/\\][s]
+[s]: http://vimdoc.net/search?q=/\\
+
+x = "("+a+","+b+","+c+","+d+","+e+","+f+")";
+
+cities = [London Berlin New\ York]
+
+e.g. it's slow too going
+
+<table>
+
+	<tr>
+		<td>Keystrokes</td>
+		<td>Buffer Contents</td>
+	</tr>
+
+</table>
+
+class XhtmlDocument < XmlDocument; end
+class XhtmlTag < XmlTag; end
+
+this string contains a "quoted" word.'
+this string contains "tow" quoted "word."
+this "string doesn't make things easy."
